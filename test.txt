@@ -1,0 +1,7 @@
+Bonjour à tous !
+Une deuxième ligne.
+abc	ABC	123
+126.85
+1Aa
+b
+c
